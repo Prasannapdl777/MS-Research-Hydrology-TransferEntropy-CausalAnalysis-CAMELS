@@ -1,0 +1,181 @@
+category,count,mean,median,std,forcing,lag_column,category_attribute
+djf,214,2.042056074766355,1.0,4.440858889628449,PRCP,PRCP_peak_lag,high_prec_timing
+jja,236,2.343220338983051,1.0,4.3217407606551275,PRCP,PRCP_peak_lag,high_prec_timing
+mam,124,3.8225806451612905,1.0,6.687019809790675,PRCP,PRCP_peak_lag,high_prec_timing
+son,97,2.216494845360825,1.0,3.9560786669685912,PRCP,PRCP_peak_lag,high_prec_timing
+djf,214,2.7990654205607477,1.0,5.430032903990826,SRAD,SRAD_peak_lag,high_prec_timing
+jja,236,9.754237288135593,3.0,9.989727865164816,SRAD,SRAD_peak_lag,high_prec_timing
+mam,124,5.693548387096774,1.0,8.583570446820241,SRAD,SRAD_peak_lag,high_prec_timing
+son,97,8.29896907216495,3.0,9.510043976034854,SRAD,SRAD_peak_lag,high_prec_timing
+djf,214,11.77570093457944,8.0,9.919212079884511,Tair,Tair_peak_lag,high_prec_timing
+jja,236,14.559322033898304,15.0,9.80884739395922,Tair,Tair_peak_lag,high_prec_timing
+mam,124,15.096774193548388,13.5,9.833094406499589,Tair,Tair_peak_lag,high_prec_timing
+son,97,15.381443298969073,14.0,9.976475766949084,Tair,Tair_peak_lag,high_prec_timing
+djf,214,9.36448598130841,6.5,9.38572737581068,VP,VP_peak_lag,high_prec_timing
+jja,236,11.661016949152541,9.0,10.257717666585052,VP,VP_peak_lag,high_prec_timing
+mam,124,11.21774193548387,8.0,10.20645458447221,VP,VP_peak_lag,high_prec_timing
+son,97,14.88659793814433,16.0,10.040414467561204,VP,VP_peak_lag,high_prec_timing
+djf,130,2.5846153846153848,1.0,4.547398294219795,PRCP,PRCP_peak_lag,low_prec_timing
+jja,234,2.9743589743589745,1.0,5.7672473755844065,PRCP,PRCP_peak_lag,low_prec_timing
+mam,64,1.640625,1.0,3.082810444723327,PRCP,PRCP_peak_lag,low_prec_timing
+son,243,2.230452674897119,1.0,4.422470164537253,PRCP,PRCP_peak_lag,low_prec_timing
+djf,130,12.207692307692307,12.0,10.062360715081002,SRAD,SRAD_peak_lag,low_prec_timing
+jja,234,3.713675213675214,1.0,6.867793918121483,SRAD,SRAD_peak_lag,low_prec_timing
+mam,64,2.875,1.0,4.533823502911815,SRAD,SRAD_peak_lag,low_prec_timing
+son,243,7.292181069958848,1.0,9.295483472734032,SRAD,SRAD_peak_lag,low_prec_timing
+djf,130,13.292307692307693,14.0,9.259770581522039,Tair,Tair_peak_lag,low_prec_timing
+jja,234,9.222222222222221,6.0,8.9136160599226,Tair,Tair_peak_lag,low_prec_timing
+mam,64,13.203125,12.0,10.204542542028207,Tair,Tair_peak_lag,low_prec_timing
+son,243,18.88477366255144,23.0,8.884654256087432,Tair,Tair_peak_lag,low_prec_timing
+djf,130,7.938461538461539,4.0,8.337599385090481,VP,VP_peak_lag,low_prec_timing
+jja,234,7.576923076923077,3.0,8.671673431676572,VP,VP_peak_lag,low_prec_timing
+mam,64,12.40625,11.5,10.78317141263579,VP,VP_peak_lag,low_prec_timing
+son,243,16.42798353909465,17.0,9.763206718144172,VP,VP_peak_lag,low_prec_timing
+Acid plutonic rocks,42,1.7142857142857142,1.0,3.8526880972786897,PRCP,PRCP_peak_lag,geol_1st_class
+Acid volcanic rocks,12,3.5,1.0,8.350285787161583,PRCP,PRCP_peak_lag,geol_1st_class
+Basic plutonic rocks,1,1.0,1.0,,PRCP,PRCP_peak_lag,geol_1st_class
+Basic volcanic rocks,40,1.75,1.0,3.356967496004507,PRCP,PRCP_peak_lag,geol_1st_class
+Carbonate sedimentary rocks,81,2.2098765432098766,1.0,4.3177426086518755,PRCP,PRCP_peak_lag,geol_1st_class
+Intermediate plutonic rocks,4,10.75,10.5,11.265729744080792,PRCP,PRCP_peak_lag,geol_1st_class
+Intermediate volcanic rocks,4,4.25,4.0,3.774917217635375,PRCP,PRCP_peak_lag,geol_1st_class
+Metamorphics,106,2.207547169811321,1.0,4.507595666009764,PRCP,PRCP_peak_lag,geol_1st_class
+Mixed sedimentary rocks,25,3.36,1.0,7.070360669725414,PRCP,PRCP_peak_lag,geol_1st_class
+Pyroclastics,2,1.5,1.5,0.7071067811865476,PRCP,PRCP_peak_lag,geol_1st_class
+Siliciclastic sedimentary rocks,229,2.550218340611354,1.0,4.746500321604908,PRCP,PRCP_peak_lag,geol_1st_class
+Unconsolidated sediments,125,2.8,1.0,5.136837234543601,PRCP,PRCP_peak_lag,geol_1st_class
+Acid plutonic rocks,42,4.642857142857143,1.0,7.817495789453194,SRAD,SRAD_peak_lag,geol_1st_class
+Acid volcanic rocks,12,2.5,2.0,3.0600059417648784,SRAD,SRAD_peak_lag,geol_1st_class
+Basic plutonic rocks,1,1.0,1.0,,SRAD,SRAD_peak_lag,geol_1st_class
+Basic volcanic rocks,40,3.075,1.0,5.4225904491753,SRAD,SRAD_peak_lag,geol_1st_class
+Carbonate sedimentary rocks,81,7.148148148148148,1.0,8.829087029686464,SRAD,SRAD_peak_lag,geol_1st_class
+Intermediate plutonic rocks,4,1.25,1.0,0.5,SRAD,SRAD_peak_lag,geol_1st_class
+Intermediate volcanic rocks,4,1.0,1.0,0.0,SRAD,SRAD_peak_lag,geol_1st_class
+Metamorphics,106,5.7075471698113205,1.0,8.389298150032264,SRAD,SRAD_peak_lag,geol_1st_class
+Mixed sedimentary rocks,25,8.56,3.0,8.391861136442461,SRAD,SRAD_peak_lag,geol_1st_class
+Pyroclastics,2,1.0,1.0,0.0,SRAD,SRAD_peak_lag,geol_1st_class
+Siliciclastic sedimentary rocks,229,7.851528384279476,2.0,9.691955419149354,SRAD,SRAD_peak_lag,geol_1st_class
+Unconsolidated sediments,125,6.848,1.0,9.4374477140188,SRAD,SRAD_peak_lag,geol_1st_class
+Acid plutonic rocks,42,6.761904761904762,3.5,8.301658734662972,Tair,Tair_peak_lag,geol_1st_class
+Acid volcanic rocks,12,12.416666666666666,10.0,10.621233735334425,Tair,Tair_peak_lag,geol_1st_class
+Basic plutonic rocks,1,30.0,30.0,,Tair,Tair_peak_lag,geol_1st_class
+Basic volcanic rocks,40,9.025,7.0,7.357143746221361,Tair,Tair_peak_lag,geol_1st_class
+Carbonate sedimentary rocks,81,15.049382716049383,17.0,9.560205586921105,Tair,Tair_peak_lag,geol_1st_class
+Intermediate plutonic rocks,4,1.75,1.0,1.5,Tair,Tair_peak_lag,geol_1st_class
+Intermediate volcanic rocks,4,1.0,1.0,0.0,Tair,Tair_peak_lag,geol_1st_class
+Metamorphics,106,14.216981132075471,12.0,10.066450376403443,Tair,Tair_peak_lag,geol_1st_class
+Mixed sedimentary rocks,25,11.44,7.0,9.781274627232042,Tair,Tair_peak_lag,geol_1st_class
+Pyroclastics,2,18.0,18.0,2.8284271247461903,Tair,Tair_peak_lag,geol_1st_class
+Siliciclastic sedimentary rocks,229,15.528384279475983,15.0,10.035696267373769,Tair,Tair_peak_lag,geol_1st_class
+Unconsolidated sediments,125,15.048,16.0,9.573026622217103,Tair,Tair_peak_lag,geol_1st_class
+Acid plutonic rocks,42,7.738095238095238,1.5,9.18657430726512,VP,VP_peak_lag,geol_1st_class
+Acid volcanic rocks,12,6.416666666666667,3.5,6.653206107971668,VP,VP_peak_lag,geol_1st_class
+Basic plutonic rocks,1,1.0,1.0,,VP,VP_peak_lag,geol_1st_class
+Basic volcanic rocks,40,10.1,8.0,9.217597439902795,VP,VP_peak_lag,geol_1st_class
+Carbonate sedimentary rocks,81,11.0,10.0,9.706956268573585,VP,VP_peak_lag,geol_1st_class
+Intermediate plutonic rocks,4,3.0,2.5,2.449489742783178,VP,VP_peak_lag,geol_1st_class
+Intermediate volcanic rocks,4,4.75,2.0,6.238322424070967,VP,VP_peak_lag,geol_1st_class
+Metamorphics,106,11.11320754716981,9.0,9.835136965872223,VP,VP_peak_lag,geol_1st_class
+Mixed sedimentary rocks,25,11.24,9.0,9.02902726396002,VP,VP_peak_lag,geol_1st_class
+Pyroclastics,2,5.5,5.5,3.5355339059327378,VP,VP_peak_lag,geol_1st_class
+Siliciclastic sedimentary rocks,229,12.606986899563319,10.0,10.753340733652879,VP,VP_peak_lag,geol_1st_class
+Unconsolidated sediments,125,12.04,10.0,10.108603809020405,VP,VP_peak_lag,geol_1st_class
+Acid plutonic rocks,51,2.607843137254902,1.0,5.142289106507136,PRCP,PRCP_peak_lag,geol_2nd_class
+Acid volcanic rocks,6,4.5,1.0,8.573214099741124,PRCP,PRCP_peak_lag,geol_2nd_class
+Basic plutonic rocks,11,1.9090909090909092,1.0,3.015113445777636,PRCP,PRCP_peak_lag,geol_2nd_class
+Basic volcanic rocks,38,2.789473684210526,1.0,6.325230023535911,PRCP,PRCP_peak_lag,geol_2nd_class
+Carbonate sedimentary rocks,67,3.044776119402985,1.0,4.980059741095043,PRCP,PRCP_peak_lag,geol_2nd_class
+Intermediate plutonic rocks,10,3.5,1.0,7.560864148142503,PRCP,PRCP_peak_lag,geol_2nd_class
+Intermediate volcanic rocks,10,2.1,1.0,2.8067379246694517,PRCP,PRCP_peak_lag,geol_2nd_class
+Metamorphics,46,2.108695652173913,1.0,3.8541651978062226,PRCP,PRCP_peak_lag,geol_2nd_class
+Mixed sedimentary rocks,62,3.6129032258064515,1.0,6.773513601896093,PRCP,PRCP_peak_lag,geol_2nd_class
+Pyroclastics,2,1.0,1.0,0.0,PRCP,PRCP_peak_lag,geol_2nd_class
+Siliciclastic sedimentary rocks,123,1.7398373983739837,1.0,3.3433011034643534,PRCP,PRCP_peak_lag,geol_2nd_class
+Unconsolidated sediments,91,2.681318681318681,1.0,5.155103449504343,PRCP,PRCP_peak_lag,geol_2nd_class
+Water bodies,16,5.125,2.0,6.173869667126661,PRCP,PRCP_peak_lag,geol_2nd_class
+Acid plutonic rocks,51,4.0588235294117645,1.0,6.310029365085022,SRAD,SRAD_peak_lag,geol_2nd_class
+Acid volcanic rocks,6,10.5,2.5,13.590437814875575,SRAD,SRAD_peak_lag,geol_2nd_class
+Basic plutonic rocks,11,6.0,2.0,7.3484692283495345,SRAD,SRAD_peak_lag,geol_2nd_class
+Basic volcanic rocks,38,5.473684210526316,1.0,8.073101289970438,SRAD,SRAD_peak_lag,geol_2nd_class
+Carbonate sedimentary rocks,67,7.611940298507463,2.0,9.748279139325046,SRAD,SRAD_peak_lag,geol_2nd_class
+Intermediate plutonic rocks,10,5.9,2.0,9.620002310002034,SRAD,SRAD_peak_lag,geol_2nd_class
+Intermediate volcanic rocks,10,3.8,1.0,8.162243700247023,SRAD,SRAD_peak_lag,geol_2nd_class
+Metamorphics,46,3.4782608695652173,1.0,6.134561943736968,SRAD,SRAD_peak_lag,geol_2nd_class
+Mixed sedimentary rocks,62,11.209677419354838,8.5,10.769016115270567,SRAD,SRAD_peak_lag,geol_2nd_class
+Pyroclastics,2,1.0,1.0,0.0,SRAD,SRAD_peak_lag,geol_2nd_class
+Siliciclastic sedimentary rocks,123,5.276422764227642,1.0,7.5273281491978965,SRAD,SRAD_peak_lag,geol_2nd_class
+Unconsolidated sediments,91,5.373626373626373,1.0,7.822543422198793,SRAD,SRAD_peak_lag,geol_2nd_class
+Water bodies,16,14.125,12.5,11.575116990049532,SRAD,SRAD_peak_lag,geol_2nd_class
+Acid plutonic rocks,51,12.607843137254902,10.0,9.907731186043652,Tair,Tair_peak_lag,geol_2nd_class
+Acid volcanic rocks,6,16.0,18.0,12.553883861180172,Tair,Tair_peak_lag,geol_2nd_class
+Basic plutonic rocks,11,15.0,9.0,11.436782764396638,Tair,Tair_peak_lag,geol_2nd_class
+Basic volcanic rocks,38,9.81578947368421,7.0,8.907498399565647,Tair,Tair_peak_lag,geol_2nd_class
+Carbonate sedimentary rocks,67,16.417910447761194,17.0,10.46661250767402,Tair,Tair_peak_lag,geol_2nd_class
+Intermediate plutonic rocks,10,7.7,5.5,8.994442728707543,Tair,Tair_peak_lag,geol_2nd_class
+Intermediate volcanic rocks,10,12.0,8.0,10.0,Tair,Tair_peak_lag,geol_2nd_class
+Metamorphics,46,11.08695652173913,7.5,10.245489168857617,Tair,Tair_peak_lag,geol_2nd_class
+Mixed sedimentary rocks,62,15.725806451612904,17.0,10.050967419123673,Tair,Tair_peak_lag,geol_2nd_class
+Pyroclastics,2,12.5,12.5,16.263455967290593,Tair,Tair_peak_lag,geol_2nd_class
+Siliciclastic sedimentary rocks,123,13.821138211382113,12.0,9.23289958568973,Tair,Tair_peak_lag,geol_2nd_class
+Unconsolidated sediments,91,10.142857142857142,7.0,9.547043089147117,Tair,Tair_peak_lag,geol_2nd_class
+Water bodies,16,15.0,14.0,9.215928240461368,Tair,Tair_peak_lag,geol_2nd_class
+Acid plutonic rocks,51,9.098039215686274,4.0,9.908087407690314,VP,VP_peak_lag,geol_2nd_class
+Acid volcanic rocks,6,3.8333333333333335,1.5,4.445971959725642,VP,VP_peak_lag,geol_2nd_class
+Basic plutonic rocks,11,8.636363636363637,7.0,7.500303024181454,VP,VP_peak_lag,geol_2nd_class
+Basic volcanic rocks,38,9.657894736842104,9.0,7.327387779031207,VP,VP_peak_lag,geol_2nd_class
+Carbonate sedimentary rocks,67,14.462686567164178,16.0,10.33576954401258,VP,VP_peak_lag,geol_2nd_class
+Intermediate plutonic rocks,10,9.5,10.5,7.442371187255369,VP,VP_peak_lag,geol_2nd_class
+Intermediate volcanic rocks,10,8.4,5.0,10.178408519999579,VP,VP_peak_lag,geol_2nd_class
+Metamorphics,46,7.913043478260869,1.0,9.422965060499852,VP,VP_peak_lag,geol_2nd_class
+Mixed sedimentary rocks,62,10.85483870967742,5.5,10.693719275386465,VP,VP_peak_lag,geol_2nd_class
+Pyroclastics,2,10.5,10.5,10.606601717798213,VP,VP_peak_lag,geol_2nd_class
+Siliciclastic sedimentary rocks,123,11.512195121951219,9.0,9.893171890752534,VP,VP_peak_lag,geol_2nd_class
+Unconsolidated sediments,91,8.395604395604396,4.0,9.52992843727255,VP,VP_peak_lag,geol_2nd_class
+Water bodies,16,18.5625,21.0,9.444354574735817,VP,VP_peak_lag,geol_2nd_class
+    Barren or Sparsely Vegetated,1,1.0,1.0,,PRCP,PRCP_peak_lag,dom_land_cover
+    Closed Shrublands,4,1.0,1.0,0.0,PRCP,PRCP_peak_lag,dom_land_cover
+    Croplands,63,2.3015873015873014,1.0,4.1216772370344295,PRCP,PRCP_peak_lag,dom_land_cover
+    Deciduous Broadleaf Forest,122,2.0655737704918034,1.0,3.468244858042664,PRCP,PRCP_peak_lag,dom_land_cover
+    Evergreen Broadleaf Forest,5,1.2,1.0,0.4472135954999579,PRCP,PRCP_peak_lag,dom_land_cover
+    Evergreen Needleleaf Forest,110,2.5454545454545454,1.0,5.206975497175895,PRCP,PRCP_peak_lag,dom_land_cover
+    Grasslands,110,5.3,1.0,8.01666841506272,PRCP,PRCP_peak_lag,dom_land_cover
+    Mixed Forests,89,1.5056179775280898,1.0,2.852923522481401,PRCP,PRCP_peak_lag,dom_land_cover
+    Open Shrublands,11,1.2727272727272727,1.0,0.904534033733291,PRCP,PRCP_peak_lag,dom_land_cover
+    Savannas,5,1.0,1.0,0.0,PRCP,PRCP_peak_lag,dom_land_cover
+    Woody Savannas,64,1.90625,1.0,4.196441236049785,PRCP,PRCP_peak_lag,dom_land_cover
+    cropland/natural vegetation mosaic,87,1.528735632183908,1.0,2.2507832252288082,PRCP,PRCP_peak_lag,dom_land_cover
+    Barren or Sparsely Vegetated,1,1.0,1.0,,SRAD,SRAD_peak_lag,dom_land_cover
+    Closed Shrublands,4,1.0,1.0,0.0,SRAD,SRAD_peak_lag,dom_land_cover
+    Croplands,63,11.19047619047619,12.0,9.764744257518808,SRAD,SRAD_peak_lag,dom_land_cover
+    Deciduous Broadleaf Forest,122,9.737704918032787,3.0,10.386580088206895,SRAD,SRAD_peak_lag,dom_land_cover
+    Evergreen Broadleaf Forest,5,6.0,1.0,10.63014581273465,SRAD,SRAD_peak_lag,dom_land_cover
+    Evergreen Needleleaf Forest,110,2.918181818181818,1.0,5.237710505820807,SRAD,SRAD_peak_lag,dom_land_cover
+    Grasslands,110,7.745454545454545,2.0,9.65404926560278,SRAD,SRAD_peak_lag,dom_land_cover
+    Mixed Forests,89,4.224719101123595,1.0,6.506557547073645,SRAD,SRAD_peak_lag,dom_land_cover
+    Open Shrublands,11,5.181818181818182,1.0,8.41211247925492,SRAD,SRAD_peak_lag,dom_land_cover
+    Savannas,5,5.4,1.0,9.838699100999076,SRAD,SRAD_peak_lag,dom_land_cover
+    Woody Savannas,64,2.78125,1.0,5.66097403139486,SRAD,SRAD_peak_lag,dom_land_cover
+    cropland/natural vegetation mosaic,87,7.735632183908046,1.0,9.640587372478608,SRAD,SRAD_peak_lag,dom_land_cover
+    Barren or Sparsely Vegetated,1,1.0,1.0,,Tair,Tair_peak_lag,dom_land_cover
+    Closed Shrublands,4,11.5,7.0,12.583057392117915,Tair,Tair_peak_lag,dom_land_cover
+    Croplands,63,16.174603174603174,16.0,9.462216344305459,Tair,Tair_peak_lag,dom_land_cover
+    Deciduous Broadleaf Forest,122,18.69672131147541,22.0,8.863416635283286,Tair,Tair_peak_lag,dom_land_cover
+    Evergreen Broadleaf Forest,5,19.6,21.0,9.071934744033381,Tair,Tair_peak_lag,dom_land_cover
+    Evergreen Needleleaf Forest,110,7.945454545454545,6.0,7.3270096828385824,Tair,Tair_peak_lag,dom_land_cover
+    Grasslands,110,10.063636363636364,5.5,9.795409215618195,Tair,Tair_peak_lag,dom_land_cover
+    Mixed Forests,89,13.96629213483146,13.0,10.116873212386603,Tair,Tair_peak_lag,dom_land_cover
+    Open Shrublands,11,16.0,22.0,11.815244390193541,Tair,Tair_peak_lag,dom_land_cover
+    Savannas,5,17.0,19.0,9.027735042633894,Tair,Tair_peak_lag,dom_land_cover
+    Woody Savannas,64,15.1875,15.5,10.093019747283149,Tair,Tair_peak_lag,dom_land_cover
+    cropland/natural vegetation mosaic,87,16.298850574712645,16.0,9.30630561742168,Tair,Tair_peak_lag,dom_land_cover
+    Barren or Sparsely Vegetated,1,5.0,5.0,,VP,VP_peak_lag,dom_land_cover
+    Closed Shrublands,4,20.75,25.5,12.120918557051139,VP,VP_peak_lag,dom_land_cover
+    Croplands,63,11.206349206349206,10.0,9.653945758848957,VP,VP_peak_lag,dom_land_cover
+    Deciduous Broadleaf Forest,122,16.66393442622951,18.0,10.18231383187884,VP,VP_peak_lag,dom_land_cover
+    Evergreen Broadleaf Forest,5,14.4,17.0,12.660963628413123,VP,VP_peak_lag,dom_land_cover
+    Evergreen Needleleaf Forest,110,6.136363636363637,4.0,6.485661351728733,VP,VP_peak_lag,dom_land_cover
+    Grasslands,110,5.945454545454545,2.0,7.783582302591635,VP,VP_peak_lag,dom_land_cover
+    Mixed Forests,89,13.348314606741573,13.0,10.356268549218594,VP,VP_peak_lag,dom_land_cover
+    Open Shrublands,11,12.272727272727273,12.0,11.376211224224953,VP,VP_peak_lag,dom_land_cover
+    Savannas,5,9.8,4.0,11.734564329364767,VP,VP_peak_lag,dom_land_cover
+    Woody Savannas,64,10.265625,8.0,9.49727143355078,VP,VP_peak_lag,dom_land_cover
+    cropland/natural vegetation mosaic,87,15.333333333333334,16.0,9.989141391352618,VP,VP_peak_lag,dom_land_cover
