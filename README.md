@@ -1,9 +1,13 @@
 # MS Research — Hydrology — Transfer Entropy — Causal Analysis — CAMELS
 
 **Author:** Prasanna Paudel
+
 **Institution:** Department of Civil, Construction, and Environmental Engineering, The University of Alabama
+
 **Advisor:** Dr. Peishi Jiang
+
 **Degree:** Master of Science in Civil Engineering (Water Resources)
+
 **Period:** 2025 – 2026
 
 ---
