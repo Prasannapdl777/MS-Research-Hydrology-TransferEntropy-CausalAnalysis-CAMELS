@@ -1,0 +1,9 @@
+variable,corr_with_peak_TE,corr_with_peak_lag,main_message
+p_mean,0.526,-0.063,Higher mean precipitation is linked to stronger peak TE
+aridity,-0.307,-0.05,Higher aridity is linked to weaker peak TE
+runoff_ratio,0.547,-0.045,Higher runoff ratio is linked to stronger peak TE
+baseflow_index,0.144,-0.015,Energy-dominated basins have slightly higher baseflow influence
+frac_snow,0.157,-0.034,Energy-dominated basins are more snow-influenced
+soil_conductivity,0.096,-0.144,Higher soil conductivity is linked to slightly shorter lag
+slope_mean,0.341,-0.107,Steeper basins tend to have stronger peak TE
+elev_mean,0.072,-0.076,Energy-dominated basins are higher in elevation

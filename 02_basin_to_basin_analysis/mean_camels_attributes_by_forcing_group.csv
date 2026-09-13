@@ -1,0 +1,3 @@
+forcing_group,p_mean,pet_mean,aridity,frac_snow,runoff_ratio,baseflow_index,soil_conductivity,soil_porosity,elev_mean,slope_mean,area_gages2,frac_forest
+Energy,2.922,2.719,1.103,0.277,0.402,0.519,1.521,0.444,1110.548,55.346,633.12,0.668
+PRCP,3.501,2.837,1.023,0.106,0.376,0.471,1.899,0.441,504.878,39.562,908.244,0.619
