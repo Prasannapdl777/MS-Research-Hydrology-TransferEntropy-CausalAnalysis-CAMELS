@@ -1,4 +1,4 @@
-MS Research — Hydrology — Transfer Entropy — Causal Analysis — CAMELS
+MS Research - Hydrology - Transfer Entropy - Causal Analysis - CAMELS
 Author: Prasanna Paudel
 Institution: Department of Civil, Construction, and Environmental Engineering, The University of Alabama
 Advisor: Dr. Peishi Jiang
@@ -8,7 +8,7 @@ Period: 2025 – 2026
 What This Research Is About
 This repository contains all Jupyter notebooks from my MS research on Transfer Entropy (TE) and information-theoretic causal analysis in hydrology.
 The central question is: Why does Transfer Entropy from atmospheric forcings to streamflow vary across basins?
-I used the CAMELS dataset, which covers 671 watersheds across the continental United States (CONUS). For each basin, I computed how much information each atmospheric forcing — precipitation (PRCP), solar radiation (SRAD), air temperature (Tair), and vapor pressure (VP) — transfers to streamflow (Q) at daily lags from 1 to 30 days.
+I used the CAMELS dataset, which covers 671 watersheds across the continental United States (CONUS). For each basin, I computed how much information each atmospheric forcing - precipitation (PRCP), solar radiation (SRAD), air temperature (Tair), and vapor pressure (VP) — transfers to streamflow (Q) at daily lags from 1 to 30 days.
 Transfer Entropy gives lagged information-flow evidence. It does not prove direct physical causation by itself. All interpretations in this work are supported by CAMELS basin attributes and hydrologic reasoning.
 ---
 Dataset
