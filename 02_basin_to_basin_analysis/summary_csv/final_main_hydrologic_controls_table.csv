@@ -1,0 +1,9 @@
+variable,corr_with_peak_TE,corr_with_peak_lag,mean_PRCP_group,mean_Energy_group
+p_mean,0.526,-0.063,3.501,2.922
+aridity,-0.307,-0.05,1.023,1.103
+runoff_ratio,0.547,-0.045,0.376,0.402
+baseflow_index,0.144,-0.015,0.471,0.519
+frac_snow,0.157,-0.034,0.106,0.277
+soil_conductivity,0.096,-0.144,1.899,1.521
+slope_mean,0.341,-0.107,39.562,55.346
+elev_mean,0.072,-0.076,504.878,1110.548
